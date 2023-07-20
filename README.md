@@ -1,6 +1,8 @@
 # Local deployment of MiniGPT-4
 ## Guidance-ZH
 MiniGPT-4仅能使用web来进行图片的写入，本项目将其部署到本地。直接输入图片路径就可以使用。一般配置和Minigpt4相同。配置完毕后直接运行demo_local.py即可。
+## Guidance-EN
+"MiniGPT-4 can only use the web to write images, but this project deploys it locally. You can simply input the image path to use it. The general configuration is the same as MiniGPT-4. Once the configuration is complete, you can run demo_local.py directly."
 
 # MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
 [Deyao Zhu](https://tsutikgiau.github.io/)* (On Job Market!), [Jun Chen](https://junchen14.github.io/)* (On Job Market!), [Xiaoqian Shen](https://xiaoqian-shen.github.io), [Xiang Li](https://xiangli.ac.cn), and [Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/). *Equal Contribution
